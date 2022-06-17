@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Vitor Souza 
 
 - 🔭 I’m currently working on Quebrou?!
-- 🌱 I’m currently learning about vueJS, Tailwind and Nuxt.
+- 🌱 I’m currently learning about vueJS, React, Tailwind and Nuxt.
 
 ##
 <div align="center">
