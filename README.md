@@ -1,7 +1,9 @@
 ### Hi there 👋 I'm Vitor Souza 
 
-- 🔭 I’m currently working on Ignição Digital
-- 🌱 I’m currently learning about vueJS, React, Tailwind and Nuxt.
+- 🔭 I'm a passioned Full-Stack Engineer with 5 years of experience onboard. 
+
+In all those years i had the opportunity to delivery excellent ideas and projects solutions. All those moments had shown me why technology came to change the word in a better way.
+I will provide below all my recent stacks i have used for my personal projects, and some i have worked with. 
 
 ##
 <div align="center">
@@ -16,8 +18,18 @@
   <img align="center" alt="Vitor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vitor-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Vitor-MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="Vitor-NEXT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+  <img align="center" alt="Vitor-NEST" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" />
+  <img align="center" alt="Vitor-GRAPHQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
+  <img align="center" alt="Vitor-REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="Vitor-POSTGRESQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img align="center" alt="Vitor-NODEJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="Vitor-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img align="center" alt="Vitor-TAILWINDCSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
   <img align="center" alt="Vitor-VUE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
   <img align="center" alt="Vitor-NUXT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" />
+  <img align="center" alt="Vitor-CHAKRAUI" height="30" width="60" src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/media/logo-colored@2x.png?raw=true" />
+  <img align="center" alt="Vitor-CLAUDE" height="30" width="30" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/claude-color.png" />
 </div>
 
   ##
